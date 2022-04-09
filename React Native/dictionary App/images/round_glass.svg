@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84" height="84" viewBox="0 0 84 84">
+  <defs>
+    <filter id="타원_6" x="0" y="0" width="84" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_303" data-name="그룹 303" transform="translate(13878 21055)">
+    <g id="그룹_139" data-name="그룹 139" transform="translate(-14480 -23540)">
+      <g transform="matrix(1, 0, 0, 1, 602, 2485)" filter="url(#타원_6)">
+        <g id="타원_6-2" data-name="타원 6" transform="translate(10 9)" fill="#fff" stroke="#aaa" stroke-width="2">
+          <circle cx="30" cy="30" r="30" stroke="none"/>
+          <circle cx="30" cy="30" r="29" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="icon_action_search_24px" data-name="icon/action/search_24px" transform="translate(-13855.152 -21033.152)">
+      <rect id="Boundary" width="33" height="33" transform="translate(0.152 0.153)" fill="none"/>
+      <path id="_Color" data-name=" ↳Color" d="M30.19,33h0l-9.434-9.413V22.095l-.509-.528a12.281,12.281,0,1,1,1.321-1.321l.528.509h1.491L33,30.19,30.191,33ZM12.264,3.773a8.491,8.491,0,1,0,8.491,8.491A8.5,8.5,0,0,0,12.264,3.773Z" transform="translate(1.152 1.153)" fill="#aaa"/>
+    </g>
+  </g>
+</svg>
