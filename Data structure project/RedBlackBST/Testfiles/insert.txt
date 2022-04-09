@@ -1,0 +1,10 @@
+insert 7 7
+insert 8 8
+insert 2 2
+insert 4 4
+insert 6 6
+insert 5 5
+insert 0 0
+insert 1 1
+delete 4
+delete 8
